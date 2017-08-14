@@ -1,0 +1,13 @@
+{
+    "name": "testpkg/testpackage",
+    "description": "First test composer",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Digvijay",
+            "email": "digvijaykrtiwari@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
