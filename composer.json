@@ -1,0 +1,13 @@
+{
+    "name": "digvijay/testpackage",
+    "description": "My first test package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Digvijat",
+            "email": "digvijaykrtiwari@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
