@@ -10,7 +10,7 @@ namespace testPackage;
 
 class testPackage {
     public function pack() {
-        return "Hello Packagist! I am coming";
+        return "Hello Packagist! I am coming there";
     }
 }
 
