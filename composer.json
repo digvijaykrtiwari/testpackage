@@ -1,11 +1,11 @@
 {
-    "name": "digvijay/testpackage",
+    "name": "carlossing/testpackage",
     "description": "My first test package",
     "type": "library",
     "authors": [
         {
-            "name": "Digvijat",
-            "email": "digvijaykrtiwari@gmail.com"
+            "name": "Carlos",
+            "email": "carlossing@gmail.com"
         }
     ],
     "minimum-stability": "stable",
